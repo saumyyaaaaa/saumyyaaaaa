@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saumyyaaaaa
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Basic Programming in C and C++
+- 🌱 I’m currently learning C, C++ and HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail me on 8090918066saumya@gmail.com
 
